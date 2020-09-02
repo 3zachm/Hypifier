@@ -8,9 +8,9 @@ If you're actually  using this (not that I'm expecting that), and you notice som
 
 ## Example
 ### Normal
-![alt text](https://i.imgur.com/JQhuxYK.gif =64x64)
+![alt text](https://i.imgur.com/pBMpqOk.gif)
 
 ### Sped-up
-![alt text](https://i.imgur.com/TBcV3Bl.gif[/img.gif =64x64)
+![alt text](https://i.imgur.com/3GIBVaZ.gif)
 ### Interlaced
-![alt text](https://i.imgur.com/V5RXcG1.gif[/img.gif =64x64)
+![alt text](https://i.imgur.com/n8hcryz.gif)
